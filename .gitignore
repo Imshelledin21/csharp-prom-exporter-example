@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/custom-prom-exporter/custom-prom-exporter/bin/Debug/net8.0
+/custom-prom-exporter/custom-prom-exporter/obj
+/custom-prom-exporter/.vs/custom-prom-exporter
+/.vs
